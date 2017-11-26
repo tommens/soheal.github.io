@@ -1,6 +1,6 @@
-# SECOHealth sources
+# SoHeal sources
 
-[![Build Status](https://travis-ci.org/secohealth/secohealth.github.io.svg?branch=sources)](https://travis-ci.org/secohealth/secohealth.github.io)
+[![Build Status](https://travis-ci.org/soheal/soheal.github.io.svg?branch=sources)](https://travis-ci.org/soheal/soheal.github.io)
 
 This website is built with [Genja](https://github.com/AlexandreDecan/Genja), a minimalist static website generator written specifically for SECOHealth. It is built on top of [Jinja2](https://jinja.pocoo.org/docs/latest/), a powerful template engine written in Python. The layout of the website relies on [Bootstrap 3](https://getbootstrap.com/docs/3.3/). 
 
