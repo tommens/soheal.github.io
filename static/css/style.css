@@ -21,8 +21,10 @@ footer {
 }
 
 .location-picture {
+  padding-top: 5px;
   max-width: 100em;
   max-height: 20em;
+  padding-top: 5px;
 }
 
 .member-picture {
