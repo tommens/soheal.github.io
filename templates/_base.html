@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% block title %}{% endblock %} — SECOHealth</title>
+    <title>{% block title %}{% endblock %} — SoHeal</title>
 
     <link href="{{ "css/bootstrap.min.css"|relative }}" rel="stylesheet" />
     <link href="{{ "css/cerulean-theme.min.css"|relative }}" rel="stylesheet" />
@@ -18,15 +18,15 @@
   <body>
 
     {% include "_navbar.html" %}
-    
+
     <div id="content">
         {% block layout %}
         {% endblock %}
       </div></div></div>
     </div>
-    
+
     {% include "_footer.html" %}
-    
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="{{ "js/bootstrap.min.js"|relative }}"></script>
   </body>
