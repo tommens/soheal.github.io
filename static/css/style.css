@@ -20,6 +20,11 @@ footer {
   float: left;
 }
 
+.location-picture {
+  max-width: 100em;
+  max-height: 20em;
+}
+
 .member-picture {
   max-width: 8em;
   max-height: 8em;
@@ -38,7 +43,7 @@ footer {
 .brand-blue { color: #0A189C; }
 .brand-red { color: #BF0014;  }
 
-p { 
+p {
   text-align: justify;
 }
 
